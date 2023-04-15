@@ -1,0 +1,29 @@
+@import url(https://fonts.bunny.net/css?family=nunito:500,500i,900,900i|raleway:500,900);
+
+:root {
+    --text-red: #ea2230;
+    --text-copy: #333333;
+}
+
+* {
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    color: var(--text-copy);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Raleway', sans-serif;
+}
+
+hr {
+    border-top: 1px solid var(--text-red);
+}
+
+a {
+    color: var(--text-red);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
