@@ -10,7 +10,7 @@
 - Tailwind (to replace Bootstrap)
 - Javascript
 - Typescript
-- Node,js
+- Node.js
 - Express.js
 - MongoDB, MySQL & Postgre
 - React, Redux, Next.js
